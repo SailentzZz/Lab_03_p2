@@ -1,0 +1,4 @@
+#Sat May 18 14:25:45 MSK 2019
+base.0=D\:\\VS\\SoftwareDevelopmentLabWork3Part2-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

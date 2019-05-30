@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LabWorkPart2</string>
+    <string name="BD2">Показать студентов в формате БД V 2.0</string>
+    <string name="ChangeBD">Изменить версию БД</string>
+    <string name="BD1">Показать студентов в формате БД V 1.0</string>
+    <string name="AddStudent">Добавить студента</string>
+    <string name="ChangeLastStudent">Изменить последнего студента</string>
+</resources>
